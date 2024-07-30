@@ -7,3 +7,4 @@ sixth change
 seventh change
 eight change
 entry from feature-1
+entry from feature-1
